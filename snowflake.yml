@@ -1,0 +1,12 @@
+definition_version: 2
+
+entities:
+  usage_insights_app:
+    type: streamlit
+    identifier:
+      name: USAGE_INSIGHTS_APP
+    title: "Usage Insights"
+    main_file: streamlit_app.py
+    pages_dir: pages/
+    query_warehouse: DEMO_WH
+    stage: USAGE_INSIGHTS.APP.STREAMLIT_STAGE
