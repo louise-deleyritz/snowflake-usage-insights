@@ -97,7 +97,3 @@ snowflake-usage-insights/
 
 - Snowflake account with access to ACCOUNT_USAGE views
 - A warehouse for running queries
-
-## License
-
-MIT License
